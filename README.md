@@ -3,3 +3,4 @@ Fall 2023 NYU Data Science Bootcamp
 
 - Google Colaboratory files for weekly practice problems
 - Files for bootcamp project
+- Kaggle Dataset URL for Project (https://www.kaggle.com/datasets/yasserh/housing-prices-dataset/)
